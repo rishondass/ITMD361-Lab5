@@ -1,0 +1,13 @@
+#planets {
+	border: none;
+  padding: 10px;
+  background-color: aqua;
+  width: 100%;
+  text-align: center;
+  /* height: 80vh; */
+}
+
+#planets > td {
+  padding: 30px;
+}
+  

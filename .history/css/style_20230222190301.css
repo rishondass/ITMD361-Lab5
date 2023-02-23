@@ -1,0 +1,14 @@
+#planets {
+	border: none;
+  padding: 10px;
+  background-color: aqua;
+  width: 100%;
+  text-align: center;
+  /* height: 80vh; */
+}
+
+#planets > tr{
+  padding: 30px;
+  background-color: red;
+}
+  

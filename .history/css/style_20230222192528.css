@@ -1,0 +1,24 @@
+
+#pageTitle { 
+  font-family: 'Hind Siliguri', sans-serif;
+  text-align: center;
+  font-size: 150px;
+}
+
+#planets {
+	border: none;
+  padding: 10px;
+  /* background-color: aqua; */
+  width: 100%;
+  text-align: center;
+  /* height: 80vh; */
+}
+
+#planets tr td{
+  padding: 25px;
+}
+
+#planets tr:nth-child(even){
+  background-color: rgb(255, 230, 0);
+}
+  

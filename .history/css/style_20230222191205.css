@@ -1,0 +1,18 @@
+#planets {
+	border: none;
+  padding: 10px;
+  /* background-color: aqua; */
+  width: 100%;
+  text-align: center;
+  /* height: 80vh; */
+}
+
+#planets tr td{
+  /* background-color: red; */
+  padding: 25px;
+}
+
+#planets tr:nth-child(even){
+  background-color: rgb(255, 145, 0);
+}
+  
